@@ -1,0 +1,25 @@
+{
+  "name": "rehanaf.github.io",
+  "description": "web portofolio",
+  "version": "1.2.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx tailwindcss -i input.css -o assets/css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rehanaf/rehanaf.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rehanaf/rehanaf.github.io/issues"
+  },
+  "homepage": "https://github.com/rehanaf/rehanaf.github.io#readme"
+}
